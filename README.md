@@ -23,4 +23,14 @@ Customer Table: Customer preferences and purchase history.
 6. Added Unique ID Columns to both datasets for better data management.
 7. Created a Customer Table to define market segments and their minimum PC requirements.
 
+### Exploratory data analysis
+
+The exploratory data analysis examined the MyTek and Tunisianet data to address a key question :
+
+- How to design a dashboard that analyzes PC options while guiding users to choose the best fit?
+
+### Limitations
+
+I couldn't fully utilize the entire customer_needs table as planned, so I focused on the processor and graphics_card columns for the slicer and deleted the others and  To ensure all selection options remained available, I created two separate visuals for RAM and storage.
+
 
