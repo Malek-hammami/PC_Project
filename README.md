@@ -3,7 +3,9 @@
 This Power BI project analyzes PC offerings from MyTek and Tunisianet to help customers choose the right PC based on their budget and component preferences. The analysis focuses on comparing price ranges, component availability, and overall value between the two stores and this part is about cleaning and preparing data using MySQL 
 
 ### Data Sources
+
 Raw Datasets: Extracted from MyTek and Tunisianet websites.
+
 Customer Table: Customer preferences and purchase history.
 
 ### Tools
