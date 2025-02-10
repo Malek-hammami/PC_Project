@@ -37,6 +37,5 @@ I couldn't fully utilize the entire customer_needs table as planned, so I focuse
 
 
 
-![Image](https://github.com/user-attachments/assets/289b387e-c558-40e7-af09-99ab8983ed5d)
 
 
