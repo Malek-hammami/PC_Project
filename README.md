@@ -2,6 +2,8 @@
 ### Project overview
 This Power BI project analyzes PC offerings from MyTek and Tunisianet to help customers choose the right PC based on their budget and component preferences. The analysis focuses on comparing price ranges, component availability, and overall value between the two stores 
 
+![Image](https://github.com/user-attachments/assets/930ce17e-bd15-4dd1-82cf-366157e1dab2)
+
 ### Data Sources
 
 Raw Datasets: Extracted from MyTek and Tunisianet websites.
@@ -33,10 +35,7 @@ The exploratory data analysis examined the MyTek and Tunisianet data to address 
 
 I couldn't fully utilize the entire customer_needs table as planned, so I focused on the processor and graphics_card columns for the slicer and deleted the others and  To ensure all selection options remained available, I created two separate visuals for RAM and storage.
 
-### ScreenShots
-Here's a glimpse of the Report
 
-![Image](https://github.com/user-attachments/assets/930ce17e-bd15-4dd1-82cf-366157e1dab2)
 
 ![Image](https://github.com/user-attachments/assets/289b387e-c558-40e7-af09-99ab8983ed5d)
 
